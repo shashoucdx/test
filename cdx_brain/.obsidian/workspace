@@ -1,0 +1,112 @@
+{
+  "main": {
+    "id": "79c29b0a6a677d12",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ea508187c701d63",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "考研英语长难句.md",
+            "mode": "source"
+          }
+        },
+        "group": "550a0e8b78d0a3d1"
+      },
+      {
+        "id": "e14dc388710b555c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "考研英语长难句.md",
+            "mode": "preview"
+          }
+        },
+        "group": "550a0e8b78d0a3d1"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b6883a529c64d091",
+    "type": "split",
+    "children": [
+      {
+        "id": "11038504306c371d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e9c4a91025de16d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "eca01e253a03d887",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 146
+  },
+  "right": {
+    "id": "27db774ce214af6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "01d33467847251d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e4c6e7845c987f4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "考研英语长难句.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2ea508187c701d63",
+  "lastOpenFiles": [
+    "考研英语长难句.md",
+    "长难句例句.md",
+    "健身笔记.md",
+    "感悟.md",
+    "MarkDown语法.md",
+    "Untitled.md",
+    "考研计划.md"
+  ]
+}
